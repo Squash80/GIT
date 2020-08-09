@@ -57,7 +57,8 @@ pkg install tar -y
 pkg install zip -y
 pkg install fish -y
                                                             echo   " "
-                                                            
+pkg install sl -y
+pkg install coreutils -y                                                            
 pkg install unzip -y
 pkg install tor -y 
 pkg install sudo -y
