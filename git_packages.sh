@@ -4,19 +4,18 @@ echo $Green
 echo " This Script is written by Squash80 now start"
 echo "---------------------------------------------------------------------------------"
 
-echo "007"
-echo "007"
-echo "007"
+echo "0"
+echo "00"
+echo "000"
 echo "."
-echo "-----------------------------------------------------------------------------------------"
-echo  
+echo "-----------------------------------------------------------------------------------------"  
 echo                  "I am ultimate Hacker"               
  echo          " I am Supernova_de_Klaxon "                                                                    
 echo   "-----------------------------------------------------------------------------------------"
 
-echo "007"
-echo "007"
-echo "007"
+echo "000"
+echo "00"
+echo "0"
 
 echo "."
 pkg update
@@ -34,7 +33,7 @@ echo  "-------------------------------------------------------------------------
 echo   " you can now hack anything      "               
  echo   " completing wait 3 2 1 "                                                                    
 echo   "####################################"
-
+figlet -f ASCII-Shadow SqUaSh80
 pkg install php -y 
 pkg install perl -y
 pkg install nmap -y
