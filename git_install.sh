@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $Green  
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by Stephin now start"
+echo " This Script is written by Squash80 now start"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
@@ -10,8 +10,8 @@ echo "007"
 echo "."
 "-----------------------------------------------------------------------------------------"
 echo  
-echo                    " we are Hacker's "               
- echo          " we are  Anonymous Tim3 "                                                                    
+echo                  "I am ultimate Hacker"               
+ echo          " I am Supernova_de_Klaxon "                                                                    
 echo   "-----------------------------------------------------------------------------------------"
 
 echo "007"
@@ -31,7 +31,7 @@ pkg install cowsay -y
 pkg install toilet -y
 pkg install figlet -y
 echo  "------------------------------------------------------------------------------------------"
-echo   " u can now hack anything      "               
+echo   " you can now hack anything      "               
  echo   " completing wait 3 2 1 "                                                                    
 echo   "####################################"
 
@@ -41,7 +41,7 @@ pkg install nmap -y
 pkg install openssh -y
 echo  "#####################################"
 echo   "anynomous "               
- echo   " join us on facebook Anonymous Tim3  "                                                                   echo   "####################################"
+ echo   " join my group on telegraph   https://t.me/EthicalHackingZone_EHZ "                                                                  echo   "####################################"
 
 pkg install bash -y
 pkg install clang -y
@@ -66,7 +66,7 @@ pkg install tor -y
 pkg install w3m -y
 pkg install cmatrix -y
 echo  "#####################################"
-echo   " we are hackers "               
+echo            "I am ultimate hacker "               
                                                                   echo   "####################################"
 
 pkg install wcalc -y 
@@ -79,7 +79,7 @@ echo   " processing wait......
 "                                                                    
 echo   "####################################"
 
-echo " If You Connected To Internet Then u downloaded success fully subscribe us Anonymous  Tim3...we are Hacker's dont underestimate us "
+echo " If You Connected To Internet Then you downloaded successfully...I am ultimate hacker dont underestimate me"
 
   echo              "Now your terminal is ready to use"
 
