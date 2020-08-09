@@ -1,6 +1,3 @@
-pkg install python
-pkg install python2
-pkg install git
 #for:P-TS
 git clone http://github.com/Ethical-Hacking-Zone/P-TS
 #for:lemon
