@@ -84,3 +84,4 @@ echo " If You Connected To Internet Then you downloaded successfully...I am ulti
   echo              "Now your terminal is ready to use"
 
 exit
+sl
