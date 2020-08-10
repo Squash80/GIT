@@ -1,11 +1,11 @@
 #for:P-TS
-git clone http://github.com/Ethical-Hacking-Zone/P-TS
+git clone https://github.com/Ethical-Hacking-Zone/P-TS
 #for:lemon
-git clone http://github.com/D3VL/L3MON
+git clone https://github.com/D3VL/L3MON
 #for:Termux black
-git clone http://github.com/Hax4us/TermuxBlack
+git clone https://github.com/Hax4us/TermuxBlack
 #for:shell phish
-git clone http://github.com/cyberknight777/shellphish
+git clone https://github.com/cyberknight777/shellphish
 #for:SM brute
 git clone https://github.com/m4ll0k/SMBrute
 #for:sniff joke
