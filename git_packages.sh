@@ -39,7 +39,7 @@ pkg install perl -y
 pkg install nmap -y
 pkg install openssh -y
 echo  "#####################################"
-echo   "anynomous "               
+echo   "SP"               
  echo   " join my group on telegraph   https://t.me/EthicalHackingZone_EHZ "                                                                  echo   "####################################"
 
 pkg install bash -y
@@ -68,11 +68,14 @@ pkg install cmatrix -y
 echo  "#####################################"
 echo            "I am ultimate hacker "               
                                                                   echo   "####################################"
-
+pkg install pulseaudio 
+pkg install vim
+pkg install nodes
+pkg install glib-bin
 pkg install wcalc -y 
 pkg install openssl
 pkg install bmon -y
-
+clear
 echo  "#####################################"
                
 echo   " processing wait......
