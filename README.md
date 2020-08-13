@@ -3,9 +3,9 @@ For easy installation of tools and packages
 
 
 # INSTALLATION
-1.install with this commandgit clone https://github.com/squash80/GIT
+1.install with this command  git clone https://github.com/squash80/GIT
 
-2.then type cd GIT
+2.then type '''bash cd GIT'''
 
 3.Next to install the git packages bash git_packages. sh
 
