@@ -3,13 +3,14 @@ For easy installation of tools and packages
 
 
 # INSTALLATION
-1.install with this command  git clone https://github.com/squash80/GIT
+1.install with this command 
+``` git clone https://github.com/squash80/GIT```
 
 2.then type ```cd GIT```
 
-3.Next to install the git packages bash git_packages. sh
+3.Next to install the git packages ```sh git_packages.sh```
 
-4.To install the tools bash git_tools.sh
+4.To install the tools ```sh git_tools.sh```
 
 # PACKAGES
 1.Python
